@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+    
+
+    <meta charset="UTF-8">
+    <title>Security Innovation | Can You Hack Us?</title>
+    <link href="/static/style.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/static/favicon.ico"></link>
+    
+
+</head>
+<body>
+    
+
+    <div id="nav">
+        <div id="logo">
+            <img src="/static/logo.png" alt='Security Innovation, Inc.' />
+        </div>
+        <div id="links">
+            <ul>
+                <li>
+                    <a href='https://www.securityinnovation.com/' target='_blank'>About Us</a>
+                </li>
+                <li>
+                    <a href='mailto:jobs@securityinnovation.com'>Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="banner">
+        <h1>Can You Hack Us?</h1>
+    </div>
+    
+
+    <div id="challenge">
+
+<h1>Challenge: SQL 1</h1>
+
+<h2>SQL Farm Lookup</h2>
+<form method="get" action="/c/7466eba2435df2b6b0198d89143e4a03">
+ <p>
+     <input name="key" type="hidden" value="4719d36d4e0a57581ac5ddhb2236ef39"></input>
+     <input type="submit" value="Get Pages">
+ </p>
+</form>
+
+<h3>Pages</h3>
+    <ul>
+       
+       <li>goats</li>
+       
+       <li>chicken</li>
+       
+       <li>dogs</li>
+       
+       <li>cows</li>
+       
+       <li>rabbits</li>
+       
+   </ul>
+
+</div>
+    
+<HR/>
+<div id="challenge">
+<script src="/static/js/myjs.js"></script>
+<h3 style="text-align:left">Hints:</h3>
+<div id="hints">
+    <button id="hint0">hint0</button>
+</div>
+
+
+<script>
+    allhints('IEV4YW1pbmUgd2hhdCBkYXRhIGlzIHNlbnQgdG8gdGhlIHNlcnZlciB3aGVuIHlvdSBwcmVzcyB0aGUgR2V0IFBhZ2VzIGJ1dHRvbi4=,IENhbiB5b3UgdGFtcGVyIHdpdGggdGhlIGRhdGEgdGhhdCBnZXRzIHNlbnQgdG8gdGhlIHNlcnZlciB0byBnZXQgZGlmZmVyZW50IHJlc3BvbnNlcz8=,IElmIHlvdSBnZXQgYW4gZXJyb3IgcmVzcG9uc2UsIGV4YW1pbmUgaXQgY2xvc2VseSBhbmQgaW1hZ2luZSB3aGF0IG1pZ2h0IGJlIGdvaW5nIG9uIGF0IHRoZSBzZXJ2ZXIgdG8gY2F1c2UgdGhlIGVycm9yLg==,IFRoZSBwYXJhbWV0ZXIgdmFsdWUgaXMgcHJvYmFibHkgZ2V0dGluZyB1c2VkIGluIHNvbWUgc29ydCBvZiBsb29rdXAu');
+</script>
+
+</div>
+
+    <div id="footer">
+      
+
+      Copyright (C) <script type="text/javascript">document.write(new Date().getFullYear());</script> Security Innovation, Inc. All rights reserved.
+      
+
+  </div>
+</body>
+</html>
